@@ -1,6 +1,6 @@
 # Daily Journal App
 
-This is a journalling app made by me, in Java, to essentially replace Daylio on my phone.  This is being worked on in my spare time. To be finished at the end of December 2024.
+This is a journalling app made by me, in Java, to essentially replace Daylio on my phone.  This is being worked on in my spare time. To be finished at the end of December 2024. This is also beign entirely built in BlueJ until I'm forced to leave it.
 
 The app will:
 
