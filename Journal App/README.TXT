@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Journal App
+PURPOSE OF PROJECT: Move from Daylio
+VERSION or DATE: 0.1
+HOW TO START THIS PROJECT: Compile all java classes and run Base
+AUTHORS: Wambyat (Anirudha Anekal)
+USER INSTRUCTIONS: None. Have fun!
